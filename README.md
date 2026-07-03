@@ -1,6 +1,6 @@
-# Hi 👋, I'm Mr. Safayat
+# Hi 👋, I'm  Safayat Hasan
  
-### Software Engineering | Full Stack Developer
+### Software Engineering | Aspiring Full Stack Developer
  
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=safayat-code&label=Profile%20Views&color=0e76a8&style=flat" alt="safayat-code" />
