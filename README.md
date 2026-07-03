@@ -1,4 +1,4 @@
-# Hi 👋, I'm Md. Safayat Hasan Khan Hredoy
+# Hi 👋, I'm Mr. Safayat
  
 ### Software Engineering | Full Stack Developer
  
