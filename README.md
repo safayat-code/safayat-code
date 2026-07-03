@@ -1,6 +1,6 @@
 # Hi 👋, I'm Md. Safayat Hasan Khan Hredoy
  
-### Software Engineering Student | Aspiring Backend Developer
+### Software Engineering | Full Stack Developer
  
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=safayat-code&label=Profile%20Views&color=0e76a8&style=flat" alt="safayat-code" />
