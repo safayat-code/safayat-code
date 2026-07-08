@@ -1,6 +1,6 @@
-# Hi 👋, I'm  Safayat Hasan
+# Hey 👋, I'm  Safayat Hasan
  
-### Software Engineering | Aspiring Full Stack Developer
+### Software Engineering Student | Aspiring Full Stack Developer
  
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=safayat-code&label=Profile%20Views&color=0e76a8&style=flat" alt="safayat-code" />
@@ -63,11 +63,6 @@
 - **Description:** Developed two Android applications: Samsung Verse (brand information app) and a personal portfolio app.
 - **Features:** Modern UI/UX with smooth navigation and responsive layouts.
 - **Tech Stack:** Kotlin, XML, Android Studio
- 
-### ⚙️ Compiler Design & Algorithmic Implementations
-- **Description:** Built a compiler that performs lexical analysis, syntax analysis, and code generation.
-- **Features:** Implemented tokenizer, parser, and error handling with optimized DSA phases.
-- **Tech Stack:** C++
  
 ---
  
